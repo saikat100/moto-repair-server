@@ -1,8 +1,9 @@
-### [Moto Repair](https://moto-repair.web.app/)
+### [Moto Repair](https://moto-repair.netlify.app/)
+#### [Clint Side Repository](https://github.com/saikat100/moto-repair-client)
 
 ###
 
-<img src="https://i.ibb.co/NrZCJYM/Moto-Repair-3.png" alt="Moto-Repair-3" border="0">
+![](images/Moto-Repair.png)
 
 ### About This Site:
 
